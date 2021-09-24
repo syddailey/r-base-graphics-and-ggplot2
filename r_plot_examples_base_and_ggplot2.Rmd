@@ -16,6 +16,9 @@ This document will explore the implementation of various types of plots that can
 ## Histogram
 
 ## Density Curve
+### Density Curve Using Base R
+
+### Density Curve Using GGPlot2
 
 ## Bar Chart
 
